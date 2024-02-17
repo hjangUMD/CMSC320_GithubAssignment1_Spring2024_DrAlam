@@ -1,0 +1,2 @@
+Why are you interested in taking CMSC320?
+I'm taking 320 for a few reasons, one is because it's needed as a prerequisite for a couple classes I want to take, and also because data science seems like something I would like to learn, with things like sql, and databases.
